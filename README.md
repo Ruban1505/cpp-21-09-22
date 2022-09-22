@@ -10,4 +10,5 @@ deposited.cpp
 names of students by creating a Student class
 
 degree.cpp
+rectangle.cpp
 
